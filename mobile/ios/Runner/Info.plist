@@ -76,5 +76,8 @@
 	<string>App需要您的同意,才能访问语音识别</string>
 	<key>ITSAppUsesNonExemptEncryption</key>
 	<false/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+
 </dict>
 </plist>
